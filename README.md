@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ibuprofen2000/ibuprofen2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello There 👋, I'm PolarX
 
-Here are some ideas to get you started:
+### FiveM Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In My Room Coding! 🏆
+
+---
+
+### 📬 How To Reach Me:
+<a href="https://discord.gg/47RGKB7mU9">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+---
+
+### 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=forcng&show_icons=true&theme=tokyonight" />
+
+---
+
+### 🧰 Tech Stack:
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,tailwind,lua,figma,npm" />
+
+</div>
