@@ -16,7 +16,7 @@ In My Room Coding! 🏆
 ---
 
 ### 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=forcng&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=ibuprofen2000&show_icons=true&theme=tokyonight" />
 
 ---
 
