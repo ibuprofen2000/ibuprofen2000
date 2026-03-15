@@ -21,6 +21,6 @@ In My Room Coding! 🏆
 ---
 
 ### 🧰 Tech Stack:
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,tailwind,lua,figma,npm" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,lua,figma,npm" />
 
 </div>
