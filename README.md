@@ -4,12 +4,12 @@
 
 ### FiveM Developer
 
-In My Room Coding! 🏆
+Room + Music = Quality Scripts 🔪
 
 ---
 
 ### 📬 How To Reach Me:
-<a href="https://discord.gg/47RGKB7mU9">
+<a href="https://discord.gg/polarscripts">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
@@ -21,6 +21,6 @@ In My Room Coding! 🏆
 ---
 
 ### 🧰 Tech Stack:
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,lua,figma,npm" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,lua,npm," />
 
 </div>
