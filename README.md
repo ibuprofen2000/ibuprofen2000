@@ -21,6 +21,6 @@ Room + Music = Quality Scripts 🔪
 ---
 
 ### 🧰 Tech Stack:
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,lua,npm," />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,lua,npm,discordjs," />
 
 </div>
