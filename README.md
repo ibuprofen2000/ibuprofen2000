@@ -2,14 +2,14 @@
 
 # Hello There 👋, I'm PolarX
 
-### FiveM Developer
+### All-Around Coder
 
-Room + Music = Quality Scripts 🔪
+Chilln
 
 ---
 
 ### 📬 How To Reach Me:
-<a href="https://discord.gg/polarscripts">
+<a href="https://discord.gg/pdev">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
