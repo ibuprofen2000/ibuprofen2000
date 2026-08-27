@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+Lost+LA;Custom+FiveM+resources;Roblox+game+systems;Dark+UI+that+actually+slaps" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Teeskii&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="views" />
 </p>
 
