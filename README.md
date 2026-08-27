@@ -22,7 +22,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://vexa.lol"><img src="https://img.shields.io/badge/WEBSITE-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://polarx.dev"><img src="https://img.shields.io/badge/WEBSITE-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/X_(TWITTER)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
