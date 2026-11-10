@@ -12,10 +12,7 @@
 
 ### 🧠 About Me
 
-- 🎮 Building A AI Automation Business
-- 🛒 Running ***Momentum Network***
-- 🤖 I write Discord bots for fun
-- 🧩 Currently deep in: Learning CyberSecurity , More Lua Coding , Figma Designing.
+- Mr. Quality Code
 
 -----
 
